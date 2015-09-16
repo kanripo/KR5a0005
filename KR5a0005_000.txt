@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:34:23.036989
-#+TITLE: 太上無極總真文昌大洞真經
-#+PROPERTY: DZID  DZ0005
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，1—496 五卷 洞真部本文類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
